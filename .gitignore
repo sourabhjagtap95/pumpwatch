@@ -1,0 +1,6 @@
+pycache/
+data/
+models/
+artifacts
+.ipynb_checkpoints/
+.env
